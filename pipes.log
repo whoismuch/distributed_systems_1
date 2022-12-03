@@ -1,0 +1,20 @@
+I wrote in all channels descriptor
+I read message from 2 process channels descriptor message Process 2 (pid 36726, parent 36721) has STARTED
+
+I wrote in all channels descriptors
+I read message from 2 process channels descriptor message Process 2 has DONE its work
+
+I wrote in all channels descriptor
+I read message from 1 process channels descriptor message Process 1 (pid 36725, parent 36721) has STARTED
+
+I wrote in all channels descriptors
+I read message from 1 process channels descriptor message Process 1 has DONE its work
+
+I read message from 1 process channels descriptor message Process 1 (pid 36725, parent 36721) has STARTED
+
+I read message from 2 process channels descriptor message Process 2 (pid 36726, parent 36721) has STARTED
+
+I read message from 1 process channels descriptor message Process 1 has DONE its work
+
+I read message from 2 process channels descriptor message Process 2 has DONE its work
+
